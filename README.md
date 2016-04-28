@@ -1,6 +1,9 @@
 # GoogleMapsFramerJS
 google maps location page recreated with framer js
 
+
+![alt tag](https://d13yacurqjgara.cloudfront.net/users/55119/screenshots/2593919/googlemaps.gif)
+
 live sample here
 http://bit.ly/mapsFramer
 
